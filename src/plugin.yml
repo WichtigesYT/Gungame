@@ -1,0 +1,17 @@
+name: GunGame
+version: WichtigeVersion
+author: WichtigesYT
+main: de.wichtiges.Main
+
+commands:
+  setspawn:
+  spawn:
+  setpos:
+  build:
+  kills:
+  tode:
+  stats:
+  kd:
+  statsresett:
+  gamemode:
+    aliases: [gm]
